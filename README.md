@@ -1,5 +1,11 @@
 # Skinned Mesh To Collider Tool
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-2020.3%2B-blue" alt="Unity Version">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/Metin2-Map%20Tools-orange" alt="Metin2 Map Tools">
+</p>
+
 ## Overview
 
 The **Skinned Mesh To Collider Tool** is a specialized Unity Editor utility designed to streamline the process of adding collision detection to skinned mesh renderers in Unity scenes. Developed by Metin2Avi, this tool addresses a common challenge in game development: creating accurate collision detection for animated and skinned meshes.
